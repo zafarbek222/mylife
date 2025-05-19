@@ -1,0 +1,34 @@
+<users>
+    <myself>
+        <name>Zafarbek</name>
+        <lastname>Ne'matullayev</lastname>
+        <age>17</age>
+        <education  name="Najot ta'lim">
+            <cours>Web praktikum</cours>
+            <DUS>7 months</DUS>
+            <location>Tashkent</location>
+        </education>
+        <education name="school 41">
+            <class>11</class>
+            <location>Angren</location>
+        </education>
+        <accomodation>Angren</accomodation>
+        <number>+99894 492 27 08</number>
+    </myself>
+    <friend>
+        <name>Elyor</name>
+        <lastname>Shuxratov</lastname>
+        <age>17</age>
+        <education  name="Bilim Ziyo">
+            <cours>english languange</cours>
+            <DUS>1 years</DUS>
+            <location>Angren</location>
+        </education>
+        <education name="collage">
+            <group>16.24</group>
+            <location>Angen</location>
+        </education>
+        <accomodation>Angren</accomodation>
+        <number>+99894 429 08 29</number>
+    </friend>
+</users>
