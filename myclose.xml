@@ -3,32 +3,40 @@
         <name>Zafarbek</name>
         <lastname>Ne'matullayev</lastname>
         <age>17</age>
+
         <education  name="Najot ta'lim">
-            <cours>Web praktikum</cours>
-            <DUS>7 months</DUS>
+            <course>Web praktikum</course>
+            <duration>7 months</duration>
             <location>Tashkent</location>
         </education>
+
         <education name="school 41">
             <class>11</class>
             <location>Angren</location>
         </education>
-        <accomodation>Angren</accomodation>
-        <number>+99894 492 27 08</number>
+
+        <accommodation>Angren</accommodation>
+        <phonenumber>+99894 492 27 08</phonenumber>
     </myself>
+
+
     <friend>
         <name>Elyor</name>
         <lastname>Shuxratov</lastname>
         <age>17</age>
+
         <education  name="Bilim Ziyo">
-            <cours>english languange</cours>
-            <DUS>1 years</DUS>
+            <course>english language</course>
+            <duration>1 years</duration>
             <location>Angren</location>
         </education>
+
         <education name="collage">
             <group>16.24</group>
-            <location>Angen</location>
+            <location>Angren</location>
         </education>
-        <accomodation>Angren</accomodation>
-        <number>+99894 429 08 29</number>
+
+        <accommodation>Angren</accommodation>
+        <phonenumber>+99894 429 08 29</phonenumber>
     </friend>
 </users>
